@@ -1,0 +1,11 @@
+body{}
+div {
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    color: #c2c2d6;
+}
+.stickytitle {
+    font-size: 15px;
+    position: fixed;
+    height: 1.5em;
+ }
