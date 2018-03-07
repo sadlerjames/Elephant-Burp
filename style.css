@@ -7,12 +7,10 @@ div {
 }
 .stickytitle {
     font-size: 15px;
-    position: fixed;
-    height: 1.5em;
  }
  #versionhistory{
-     font-size: 0.5em;
+     font-size: 7px;
      position: relative;
-     left: 50%;
      top: 0%;
+     left: 89%;   
 }
