@@ -1,2 +1,2 @@
 # Elephant-Burp
-Elephant Burp
+Elephant Burp Studios
